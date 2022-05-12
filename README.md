@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+My first repository on GitHub
+
+I love food. 
